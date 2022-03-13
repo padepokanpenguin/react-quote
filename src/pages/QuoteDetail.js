@@ -1,6 +1,6 @@
 import {useParams, Route} from 'react-router-dom';
 import {Fragment} from 'react';
-import HiglightedQuote from '../components/quotes/HiglightedQuote';
+import HiglightedQuote from '../components/quotes/HighlightedQuote';
 import Comments from '../components/comments/Comments';
 
 
